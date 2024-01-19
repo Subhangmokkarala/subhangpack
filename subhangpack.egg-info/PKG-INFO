@@ -1,12 +1,14 @@
 Metadata-Version: 2.1
 Name: subhangpack
-Version: 0.2
+Version: 1.0.1
 Summary: Youre too early
 Author: SubhangMokkarala
 Author-email: <subhangmokkarala@gmail>
-Keywords: python,video,stream,video stream,camera stream,sockets
+Keywords: python,name,generator,device,random,fun,subhangpack,subhang,mokkarala,subhangmokkarala
 Classifier: Development Status :: Learning
 Classifier: Intended Audience :: Developers
+Classifier: license= MIT
+Classifier: Natural Language :: English
 Classifier: Programming Language :: Python :: 3
 Classifier: Operating System :: Unix
 Classifier: Operating System :: MacOS :: MacOS X

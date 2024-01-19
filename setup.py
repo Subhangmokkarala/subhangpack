@@ -4,7 +4,7 @@ import os
 
 here = os.path.abspath(os.path.dirname(__file__))
 
-VERSION = '0.2'
+VERSION = '1.0.1'
 DESCRIPTION = 'Youre too early'
 
 # Setting up
@@ -18,13 +18,16 @@ setup(
     install_requires=['numpy', 'pandas', 'tensorflow'],
     entry_points={
         'console_scripts': [
-            'subhangpack-hello = subhangpack:hello'
+            'subhangpack-hello = subhangpack:hello',
+            'subhangpack-devicename = subhangpack:namegen'
         ]
     },
-    keywords=['python', 'video', 'stream', 'video stream', 'camera stream', 'sockets'],
+    keywords=['python', 'name', 'generator', 'device', 'random', 'fun', 'subhangpack', 'subhang', 'mokkarala', 'subhangmokkarala'],
     classifiers=[
         "Development Status :: Learning",
         "Intended Audience :: Developers",
+        "license= MIT",
+        "Natural Language :: English",
         "Programming Language :: Python :: 3",
         "Operating System :: Unix",
         "Operating System :: MacOS :: MacOS X",

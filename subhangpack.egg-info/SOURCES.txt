@@ -2,6 +2,7 @@ LICENSE
 README.md
 setup.py
 subhangpack/__init__.py
+subhangpack/names.py
 subhangpack/subhang.py
 subhangpack.egg-info/PKG-INFO
 subhangpack.egg-info/SOURCES.txt
