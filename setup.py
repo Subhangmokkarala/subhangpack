@@ -4,7 +4,7 @@ import os
 
 here = os.path.abspath(os.path.dirname(__file__))
 
-VERSION = '1.0.1'
+VERSION = '1.0.9'
 DESCRIPTION = 'Youre too early'
 
 # Setting up
@@ -12,7 +12,7 @@ setup(
     name="subhangpack",
     version=VERSION,
     author="SubhangMokkarala",
-    author_email="<subhangmokkarala@gmail>",
+    author_email="subhangmokkarala@gmail.com",
     description=DESCRIPTION,
     packages=find_packages(),
     install_requires=['numpy', 'pandas', 'tensorflow'],
