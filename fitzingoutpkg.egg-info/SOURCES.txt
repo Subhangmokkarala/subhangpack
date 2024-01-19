@@ -6,5 +6,5 @@ fitzingoutpkg.egg-info/SOURCES.txt
 fitzingoutpkg.egg-info/dependency_links.txt
 fitzingoutpkg.egg-info/requires.txt
 fitzingoutpkg.egg-info/top_level.txt
-libname/__init__.py
-libname/subhang.py
+subhangpack/__init__.py
+subhangpack/subhang.py
