@@ -1,2 +1,2 @@
-from subhangpack import subhangenv
-subhangenv()
+from subhangpack import hello
+hello()

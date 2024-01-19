@@ -1,0 +1,2 @@
+[console_scripts]
+subhangpack-hello = subhangpack:hello
