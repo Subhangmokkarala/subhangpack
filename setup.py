@@ -14,8 +14,6 @@ setup(
     author="SubhangMokkarala",
     author_email="<subhangmokkarala@gmail>",
     description=DESCRIPTION,
-    long_description_content_type="text/markdown",
-    long_description=long_description,
     packages=find_packages(),
     install_requires=['numpy', 'pandas', 'tensorflow'],
     keywords=['python', 'video', 'stream', 'video stream', 'camera stream', 'sockets'],
