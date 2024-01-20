@@ -4,7 +4,7 @@ import os
 
 here = os.path.abspath(os.path.dirname(__file__))
 
-VERSION = '1.0.13'
+VERSION = '1.0.14'
 DESCRIPTION = 'Youre too early'
 
 # Setting up
@@ -17,7 +17,7 @@ setup(
     long_description= open('README.md').read(),
     long_description_content_type="text/markdown",
     packages=find_packages(),
-    install_requires=['numpy', 'pandas', 'tensorflow'],
+    install_requires=['numpy'],
     entry_points={
         'console_scripts': [
             'subhangpack-hello = subhangpack:hello',

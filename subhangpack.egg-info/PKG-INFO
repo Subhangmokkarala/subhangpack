@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: subhangpack
-Version: 1.0.13
+Version: 1.0.14
 Summary: Youre too early
 Author: SubhangMokkarala
 Author-email: subhangmokkarala@gmail.com
@@ -16,14 +16,12 @@ Classifier: Operating System :: Microsoft :: Windows
 Description-Content-Type: text/markdown
 License-File: LICENSE
 Requires-Dist: numpy
-Requires-Dist: pandas
-Requires-Dist: tensorflow
 
 # subhangpack
 hello
 namegen
 
-[![Python Package](https://github.com/Subhangmokkarala/subhangpack/actions/workflows/python-publish.yml/badge.svg)](https://github.com/Subhangmokkarala/subhangpack/actions/workflows/python-publish.yml)
+[![Upload Python Package](https://github.com/Subhangmokkarala/subhangpack/actions/workflows/python-publish.yml/badge.svg?branch=main&event=status)](https://github.com/Subhangmokkarala/subhangpack/actions/workflows/python-publish.yml)
 
 ## to install
 ```bash
