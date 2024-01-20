@@ -4,7 +4,7 @@ import os
 
 here = os.path.abspath(os.path.dirname(__file__))
 
-VERSION = '1.0.9'
+VERSION = '1.0.10'
 DESCRIPTION = 'Youre too early'
 
 # Setting up
@@ -14,6 +14,8 @@ setup(
     author="SubhangMokkarala",
     author_email="subhangmokkarala@gmail.com",
     description=DESCRIPTION,
+    long_description= open('README.md').read(),
+    long_description_content_type="text/markdown",
     packages=find_packages(),
     install_requires=['numpy', 'pandas', 'tensorflow'],
     entry_points={
