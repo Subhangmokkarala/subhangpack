@@ -1,14 +1,13 @@
 Metadata-Version: 2.1
 Name: subhangpack
-Version: 1.0.10
+Version: 1.0.13
 Summary: Youre too early
 Author: SubhangMokkarala
 Author-email: subhangmokkarala@gmail.com
 Keywords: python,name,generator,device,random,fun,subhangpack,subhang,mokkarala,subhangmokkarala
-Classifier: Development Status :: Learning
+Classifier: Development Status :: 3 - Alpha
 Classifier: Intended Audience :: Developers
-Classifier: license= MIT
-Classifier: Natural Language :: English
+Classifier: License :: OSI Approved :: MIT LicenseNatural Language :: English
 Classifier: Programming Language :: Python :: 3
 Classifier: Operating System :: Unix
 Classifier: Operating System :: MacOS :: MacOS X
@@ -22,6 +21,9 @@ Requires-Dist: tensorflow
 # subhangpack
 hello
 namegen
+
+[![Python Package](https://github.com/Subhangmokkarala/subhangpack/actions/workflows/python-publish.yml/badge.svg)](https://github.com/Subhangmokkarala/subhangpack/actions/workflows/python-publish.yml)
+
 ## to install
 ```bash
 pip install subhangpack

@@ -4,7 +4,7 @@ import os
 
 here = os.path.abspath(os.path.dirname(__file__))
 
-VERSION = '1.0.12'
+VERSION = '1.0.13'
 DESCRIPTION = 'Youre too early'
 
 # Setting up
