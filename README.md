@@ -2,7 +2,7 @@
 hello
 namegen
 
-[![Python Package](https://github.com/Subhangmokkarala/subhangpack/actions/workflows/python-publish.yml/badge.svg)](https://github.com/Subhangmokkarala/subhangpack/actions/workflows/python-publish.yml)
+[![Upload Python Package](https://github.com/Subhangmokkarala/subhangpack/actions/workflows/python-publish.yml/badge.svg?branch=main&event=status)](https://github.com/Subhangmokkarala/subhangpack/actions/workflows/python-publish.yml)
 
 ## to install
 ```bash
