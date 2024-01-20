@@ -24,7 +24,7 @@ setup(
             'subhangpack-devicename = subhangpack:namegen'
         ]
     },
-    keywords=['python', 'name', 'generator', 'device', 'random', 'fun', 'subhangpack', 'subhang', 'mokkarala', 'subhangmokkarala'],
+    keywords=['python', 'name','beginner', 'generator', 'device', 'random', 'fun', 'subhangpack', 'subhang', 'mokkarala', 'subhangmokkarala'],
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
