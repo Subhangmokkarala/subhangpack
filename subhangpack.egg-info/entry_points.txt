@@ -1,3 +1,4 @@
 [console_scripts]
 subhangpack-devicename = subhangpack:namegen
 subhangpack-hello = subhangpack:hello
+subhangpack-info = subhangpack:sysinfo

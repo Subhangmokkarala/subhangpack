@@ -21,7 +21,8 @@ setup(
     entry_points={
         'console_scripts': [
             'subhangpack-hello = subhangpack:hello',
-            'subhangpack-devicename = subhangpack:namegen'
+            'subhangpack-devicename = subhangpack:namegen',
+            'subhangpack-info = subhangpack:sysinfo'
         ]
     },
     keywords=['python', 'name','beginner', 'generator', 'device', 'random', 'fun', 'subhangpack', 'subhang', 'mokkarala', 'subhangmokkarala'],
