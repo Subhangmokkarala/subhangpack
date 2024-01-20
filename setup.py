@@ -4,8 +4,8 @@ import os
 
 here = os.path.abspath(os.path.dirname(__file__))
 
-VERSION = '1.0.14'
-DESCRIPTION = 'Youre too early'
+VERSION = '1.1.0'
+DESCRIPTION = 'nah you just started'
 
 # Setting up
 setup(
