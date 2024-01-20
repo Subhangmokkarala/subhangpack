@@ -1,6 +1,9 @@
 # subhangpack
 hello
 namegen
+
+[![Upload Python Package](https://github.com/Subhangmokkarala/subhangpack/actions/workflows/python-publish.yml/badge.svg)](https://github.com/Subhangmokkarala/subhangpack/actions/workflows/python-publish.yml)
+
 ## to install
 ```bash
 pip install subhangpack
