@@ -4,7 +4,7 @@ import os
 
 here = os.path.abspath(os.path.dirname(__file__))
 
-VERSION = '1.0.10'
+VERSION = '1.0.11'
 DESCRIPTION = 'Youre too early'
 
 # Setting up
@@ -26,9 +26,9 @@ setup(
     },
     keywords=['python', 'name', 'generator', 'device', 'random', 'fun', 'subhangpack', 'subhang', 'mokkarala', 'subhangmokkarala'],
     classifiers=[
-        "Development Status :: Learning",
+        "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
-        "license= MIT",
+        "license= MIT License",
         "Natural Language :: English",
         "Programming Language :: Python :: 3",
         "Operating System :: Unix",
