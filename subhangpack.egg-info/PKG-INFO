@@ -7,7 +7,8 @@ Author-email: subhangmokkarala@gmail.com
 Keywords: python,name,generator,device,random,fun,subhangpack,subhang,mokkarala,subhangmokkarala
 Classifier: Development Status :: 3 - Alpha
 Classifier: Intended Audience :: Developers
-Classifier: License :: OSI Approved :: MIT LicenseNatural Language :: English
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
 Classifier: Programming Language :: Python :: 3
 Classifier: Operating System :: Unix
 Classifier: Operating System :: MacOS :: MacOS X
